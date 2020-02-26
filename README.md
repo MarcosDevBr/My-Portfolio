@@ -1,7 +1,13 @@
 # Bako - Portfólio Pessoal e Currículo - Recriado do zero 
 ## Marcos Augusto Rodrigues
 
-![Code ](https://github.com/therruner/-personaPortfolio/blob/master/gitPersonalPortifolio.gif)
+## Screenshot About Me
+
+![Code ](https://github.com/therruner/My-Portfolio/blob/master/webPerfil.png)
+
+## Screenshot My Skills
+
+![Code ](https://github.com/therruner/My-Portfolio/blob/master/localhost_3000_%20(3)%20(1).png)
 
 ## About The Project
 
@@ -23,6 +29,6 @@ https: git clone https://github.com/therruner/-personaPortfolio.git
 #### 4 - Run your application with npm start or yarn start.
 
 ##### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Code ](https://github.com/therruner/-personaPortfolio/blob/master/gitPersonalPortifolio.gif)
 
 
