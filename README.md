@@ -1,15 +1,18 @@
 # Bako - Portfólio Pessoal e Currículo - Recriado do zero 
-## Marcos Augusto Rodrigues
 
 ## Screenshot About Me
 
+
 ![Code ](https://github.com/therruner/My-Portfolio/blob/master/webPerfil.png)
 
-## Screenshot My Skills
+
+### Screenshot My Skills
+
 
 ![Code ](https://github.com/therruner/My-Portfolio/blob/master/localhost_3000_%20(3)%20(1).png)
 
-## About The Project
+
+### About The Project
 
 This project was created to improve my skills in JavaScript, CSS, HTML and React, which will contribute to my studies. I created the Bako - Personal Portfolio theme from scratch, which is available on the WordPress Theme for $ 39. 
    
