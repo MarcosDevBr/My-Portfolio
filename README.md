@@ -23,7 +23,7 @@ This project was created to improve my skills in JavaScript, CSS, HTML and React
 
 #### 1 - Run git clone
 
-https: git clone https://github.com/therruner/-personaPortfolio.git
+https: git clone https://github.com/therruner/My-Portfolio.git
 
 #### 2 - Open a project folder
 
